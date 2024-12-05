@@ -1,0 +1,103 @@
+[
+    {
+      "cityName": "Mumbai",
+      "areaName": "Andheri",
+      "municipalOffice": "Andheri Municipal Office",
+      "municipalOfficer": "Rajesh Sharma",
+      "phoneNo": "022-12345678",
+      "lastAlert": "2024-11-01T14:30:00",
+      "alertType": "Toxic Gas Accumulation",
+      "actionTime": "2024-11-01T15:00:00"
+    },
+    {
+      "cityName": "Mumbai",
+      "areaName": "Colaba",
+      "municipalOffice": "Colaba Municipal Office",
+      "municipalOfficer": "Anita Mehta",
+      "phoneNo": "022-87654321",
+      "lastAlert": "2024-10-28T10:15:00",
+      "alertType": "Flooded Road",
+      "actionTime": ""
+    },
+    {
+      "cityName": "Mumbai",
+      "areaName": "Bandra",
+      "municipalOffice": "Bandra Municipal Office",
+      "municipalOfficer": "Vikram Singh",
+      "phoneNo": "022-23456789",
+      "lastAlert": "2024-11-03T08:00:00",
+      "alertType": "Flammable Gas Accumulation",
+      "actionTime": ""
+    },
+    {
+      "cityName": "Mumbai",
+      "areaName": "Juhu",
+      "municipalOffice": "Juhu Municipal Office",
+      "municipalOfficer": "Seema Rao",
+      "phoneNo": "022-34567890",
+      "lastAlert": "2024-11-05T12:00:00",
+      "alertType": "Flooded Road",
+      "actionTime": "2024-11-05T12:30:00"
+    },
+    {
+      "cityName": "Delhi",
+      "areaName": "Connaught Place",
+      "municipalOffice": "CP Municipal Office",
+      "municipalOfficer": "Arjun Kapoor",
+      "phoneNo": "011-98765432",
+      "lastAlert": "2024-11-04T09:00:00",
+      "alertType": "Toxic Gas Accumulation",
+      "actionTime": ""
+    },
+    {
+      "cityName": "Delhi",
+      "areaName": "Karol Bagh",
+      "municipalOffice": "Karol Bagh Municipal Office",
+      "municipalOfficer": "Priya Gupta",
+      "phoneNo": "011-12345678",
+      "lastAlert": "2024-10-30T16:00:00",
+      "alertType": "Flammable Gas Accumulation",
+      "actionTime": "2024-10-30T16:30:00"
+    },
+    {
+      "cityName": "Bangalore",
+      "areaName": "Indiranagar",
+      "municipalOffice": "Indiranagar Municipal Office",
+      "municipalOfficer": "Karthik Reddy",
+      "phoneNo": "080-98765432",
+      "lastAlert": "2024-11-02T11:00:00",
+      "alertType": "Flooded Road",
+      "actionTime": "2024-11-02T11:30:00"
+    },
+    {
+      "cityName": "Bangalore",
+      "areaName": "Whitefield",
+      "municipalOffice": "Whitefield Municipal Office",
+      "municipalOfficer": "Anusha Patil",
+      "phoneNo": "080-12345678",
+      "lastAlert": "2024-11-01T13:00:00",
+      "alertType": "Toxic Gas Accumulation",
+      "actionTime": ""
+    },
+    {
+      "cityName": "Chennai",
+      "areaName": "T Nagar",
+      "municipalOffice": "T Nagar Municipal Office",
+      "municipalOfficer": "Suresh Kumar",
+      "phoneNo": "044-98765432",
+      "lastAlert": "2024-11-05T15:00:00",
+      "alertType": "Flammable Gas Accumulation",
+      "actionTime": "2024-11-05T15:30:00"
+    },
+    {
+      "cityName": "Chennai",
+      "areaName": "Adyar",
+      "municipalOffice": "Adyar Municipal Office",
+      "municipalOfficer": "Divya Nair",
+      "phoneNo": "044-12345678",
+      "lastAlert": "2024-11-03T10:00:00",
+      "alertType": "Flooded Road",
+      "actionTime": ""
+    }
+  ]
+  

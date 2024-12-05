@@ -32,7 +32,7 @@ const blockedRoads = [
     [25.6148, 85.1395]
   ],
   [
-    [25.6135, 85.1400],
+    [25.6135, 85.1400], 
     [25.6185, 85.1430]
   ]
 ];
@@ -96,6 +96,8 @@ const MapComponent = () => {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100vh', backgroundColor: '#f0f0f0' }}>
+      
+      <h1>Flood Maps</h1>
       <MapContainer center={[25.634567, 85.106980]} zoom={15} style={{ height: '400px', width: '800px', border: '2px solid #ccc', borderRadius: '8px' }} ref={mapRef}>
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

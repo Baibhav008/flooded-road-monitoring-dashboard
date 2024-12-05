@@ -40,7 +40,7 @@ const DashBoard = () => {
         ));
     };
 
-    const renderPolyline = (latArray, longArray, color) => {
+    const renderPolyline = (latArray, longArray, color) => { 
         const positions = latArray.map((lat, index) => [lat, longArray[index]]);
         return <Polyline positions={positions} color={color} />;
     };
@@ -57,12 +57,7 @@ const DashBoard = () => {
 
     return (
         <div style={{ fontFamily: 'Arial, sans-serif', backgroundColor: '#f0f0f0', minHeight: '100vh', padding: '20px' }}>
-            <nav style={{ backgroundColor: '#333', padding: '1rem', color: '#fff', borderRadius: '5px' }}>
-                <h1 style={{ display: 'inline', marginRight: '2rem' }}>Smart Overflow and Flood Monitoring</h1>
-                <a href="#dashboard" style={{ color: '#fff', marginRight: '1rem' }}>Dashboard</a>
-                <a href="#historical" style={{ color: '#fff', marginRight: '1rem' }}>Historical Record</a>
-                <a href="#map" style={{ color: '#fff' }}>Map</a>
-            </nav>
+            
             <div style={{ padding: '1rem', backgroundColor: '#fff', borderRadius: '5px', marginTop: '20px' }}>
                 <label>
                     Select City:
