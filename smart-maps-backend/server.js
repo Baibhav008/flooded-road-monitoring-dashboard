@@ -5,8 +5,8 @@ const cors = require('cors');
 const app = express();
 const port = 3001;
 
-const accountSid = 'AC70c6509110e0597e1cc204719ff8ccb9';
-const authToken = '4d21ed191eb31497473fe8222e3096eb';
+const accountSid = 'account_api';
+const authToken = 'api_auth';
 const client = twilio(accountSid, authToken);
 
 app.use(cors());
